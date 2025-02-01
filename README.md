@@ -25,7 +25,7 @@ Ce projet contient un exemple de simulation ESP32 réalisé avec [Wokwi](https:/
 2. Charger le programme sur un ESP32 ou simuler avec Wokwi.
 
 ## Code source
-```
+```cpp
 const int btn = 15;
 const int led = 2;
 
